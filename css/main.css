@@ -11,11 +11,11 @@ hr {
 }
 
 a:hover {
-	color: #642a83;
+	color: #652a83;
 }
 
 a {
-	color: #5f4078;
+	color: #652a83;
 	font-family: arial;
 	font-size: 13px;
 	line-height: 14pt;
@@ -23,7 +23,7 @@ a {
 }
 
 .special {
-	color: #e4d1eb;
+	color: #b08ebd;
 	font-family: monospace;
 	line-height: 10pt;
 }
