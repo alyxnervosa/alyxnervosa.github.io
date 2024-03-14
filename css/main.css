@@ -54,12 +54,6 @@ a {
 	transform: translate(-50%, -50%);
 }
 
-.alyximage { 
-    position: fixed;
-    bottom: 0;
-    right: 0;
-}
-
 .center {
 	text-align: center;
 }
