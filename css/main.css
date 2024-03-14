@@ -15,7 +15,7 @@ a:hover {
 }
 
 a {
-	color: #652a83;
+	color: #ddcce3;
 	font-family: arial;
 	font-size: 13px;
 	line-height: 14pt;
@@ -23,7 +23,7 @@ a {
 }
 
 .special {
-	color: #b08ebd;
+	color: #ddcce3;
 	font-family: monospace;
 	line-height: 10pt;
 }
