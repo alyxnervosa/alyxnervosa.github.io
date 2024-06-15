@@ -1,4 +1,4 @@
-body {background-color: #8c8c8c;}
+body {background-color: #000000;}
 pre {
 	color: #FFFFFF;
 	font-family: arial;
@@ -11,11 +11,11 @@ hr {
 }
 
 a:hover {
-	color: #6f70a8;
+	color: #009500;
 }
 
 a {
-	color: #9f9fd6;
+	color: #00DC00;
 	font-family: arial;
 	font-size: 13px;
 	line-height: 14pt;
@@ -23,7 +23,7 @@ a {
 }
 
 .special {
-	color: #d0d6f5;
+	color: #00ff00;
 	font-family: monospace;
 	line-height: 10pt;
 }
@@ -33,7 +33,7 @@ a {
 }
 
 .pagebutton {
-	background-color: #3c3d5c;
+	background-color: #1c1c1c;
 	border: none;
 	color: white;
 	padding: 15px 32px;
